@@ -1,6 +1,6 @@
 # LabLB: Laboratorio para crear un Balanceador de Carga
 En este tutorial mostraré los pasos para crear un Balanceador de carga en AWS
-El objketovo es balancear la carga entre dos instancias 
+El objetivo es balancear la carga entre dos instancias 
 
 ## A. Preparación
 ### Launch template 
